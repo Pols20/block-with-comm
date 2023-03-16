@@ -1,0 +1,23 @@
+.remove-button {
+  position: absolute;
+  font-size: 110%;
+  top: 0;
+  color: darkred;
+  right: 10px;
+  display: block;
+  width: 24px;
+  height: 24px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.textElement {
+  color: red;
+  margin-left: 2%;
+  margin-top: 1%;
+}
+.textElement2 {
+  color: red;
+  margin: 2% auto;
+}

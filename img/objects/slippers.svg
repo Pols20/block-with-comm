@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 150 131.6" version="1.1" viewBox="0 0 150 131.6" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill:#1F1F1E;}
+	.st1{fill:#A7665C;}
+	.st2{fill:#764F25;}
+	.st3{fill:#0F0F10;}
+	.st4{fill:#C07F70;}
+	.st5{fill:#835E31;}
+</style>
+
+	<rect class="st0" x="28.1" y="65.2" width="121.9" height="8.2"/>
+	<path class="st1" d="m150 65.2h-121.9v-3h121.1c0.3 0.9 0.6 1.9 0.8 3z"/>
+	<path class="st2" d="m150 65.2h-79.8l1.4-3 14.3-30.1c3.9 0.9 7.6 1.8 11.2 2.7 27.4 6.9 47.2 14.6 52 27.4 0.4 0.9 0.7 1.9 0.9 3z"/>
+	<path class="st1" d="m150 65.2h-67.3l1.4-3 13-27.4c27.4 6.9 47.2 14.6 52 27.4 0.4 0.9 0.7 1.9 0.9 3z"/>
+
+	<rect class="st3" y="83.1" width="121.9" height="8.2"/>
+	<path class="st4" d="m121.9 83.1h-121.9v-3h121.1c0.4 1 0.6 2 0.8 3z"/>
+	<path class="st5" d="m121.9 83.1h-79.7l1.4-3 14.3-30.1c3.9 0.9 7.6 1.8 11.2 2.7 27.4 6.9 47.2 14.6 52 27.4 0.4 1 0.6 2 0.8 3z"/>
+	<path class="st4" d="m121.9 83.1h-67.3l1.4-3 13-27.4c27.4 6.9 47.2 14.6 52 27.4 0.5 1 0.7 2 0.9 3z"/>
+
+</svg>
